@@ -241,4 +241,4 @@ This repository serves as the official landing page for Logisim. The software is
 **Get the most recent version of Logisim today!**
 
 ---
-**Last updated:** 2026-10-28 20:53:14 UTC
+**Last updated:** 2026-10-29 00:41:47 UTC
